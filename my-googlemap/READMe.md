@@ -11,7 +11,13 @@ To get app up and running
 
 Please note this is located within the MapContainer. API Key will be sent via email
 
-2) start application npm start 
+2) npm install
+
+3) create-react-app File Name
+   Put file in
+   npm start
+
+3) start application npm start 
 
 3) go to http://localhost:3000/
 
