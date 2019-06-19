@@ -14,10 +14,7 @@ Please note this is located within the MapContainer. API Key will be sent via em
 2) npm install
 
 3) create-react-app File Name
-   Put file in
+   Move file structure into folders
    npm start
-
-3) start application npm start 
-
-3) go to http://localhost:3000/
+4) go to http://localhost:3000/
 
